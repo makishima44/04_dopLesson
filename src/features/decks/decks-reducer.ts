@@ -34,9 +34,3 @@ export const setDecksAC = (decks: Deck[]) =>
   }) as const
 
 
-
-  export const getDecksTC = () => () => {
-
-
-    
-  }
